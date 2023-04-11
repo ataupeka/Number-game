@@ -3,7 +3,7 @@ Number game
 
 
 
-https://darling-halva-7e2539.netlify.app/
+numbergamenumber.netlify.app
 
 
 
