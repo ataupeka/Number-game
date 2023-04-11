@@ -3,7 +3,7 @@ Number game
 
 
 
-numbergamenumber.netlify.app
+[numbergamenumber.netlify.app](https://numbergamenumber.netlify.app/)
 
 
 
